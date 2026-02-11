@@ -13,15 +13,13 @@ MonoBehaviour:
   m_Name: 2
   m_EditorClassIdentifier: 
   soruMetni: "Sanayide bir k\xF6\u015Fede g\xF6zlerin a\xE7\u0131l\u0131r"
-  secenekAMetni: "Ana yola \xE7\u0131karak nereye gitmen gerekti\u011Fini \xC7\xF6zmeye
-    \xE7al\u0131\u015F"
+  secenekAMetni: "Ana yola \xE7\u0131k"
   secenekASonucu: {fileID: 11400000, guid: fefd840200c0ffb41ab26649992dc7d9, type: 2}
   secenekASonucMetni: 
   secenekAResmi: {fileID: -1035415673213467966, guid: 495e59af5f8f48943b8c6d6caeac7e7b, type: 3}
   secenekA_CanEtkisi: 0
   secenekA_AcclikEtkisi: 0
-  secenekBMetni: "Ara sokaklardan ilerleyerek bir \xE7\u0131k\u0131\u015F yolu bulmaya
-    \xE7al\u0131\u015F"
+  secenekBMetni: Ara sokaklardan ilerle
   secenekBSonucu: {fileID: 11400000, guid: 4bc3349b245a9ff45bfd5b1cdb4bc01d, type: 2}
   secenekBSonucMetni: 
   secenekBResmi: {fileID: -4659419435084869936, guid: ba0b42069f79ac64684c4b9a82be458c, type: 3}

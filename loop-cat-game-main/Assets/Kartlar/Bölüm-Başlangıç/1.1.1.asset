@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: 1.1.1
   m_EditorClassIdentifier: 
   soruMetni: "Kurtlar gitti a\u015Fa\u011F\u0131 inmen gerekiyor(y\xFCksek a\u011Fa\xE7)"
-  secenekAMetni: "Di\u011Fer a\u011Fa\xE7lara z\u0131playarak yava\u015F\xE7a inmeye
-    \xE7al\u0131\u015F"
+  secenekAMetni: "Yava\u015F\xE7a inmeye \xE7al\u0131\u015F"
   secenekASonucu: {fileID: 0}
   secenekASonucMetni: "\xD6ld\xFCn(Kartal seni fark edip yedi)"
   secenekAResmi: {fileID: -8172040297308566662, guid: ab87f9bc3cb07734799898ca151c00db, type: 3}

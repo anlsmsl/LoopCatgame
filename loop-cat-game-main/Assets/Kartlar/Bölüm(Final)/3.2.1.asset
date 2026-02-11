@@ -15,16 +15,18 @@ MonoBehaviour:
   soruMetni: "\u0131\u015F\u0131k kayna\u011F\u0131na yak\u0131nla\u015Ft\u0131\u011F\u0131nda
     bir kedi dikkatini \xE7ekti"
   secenekAMetni: Kediyi kontrol et
-  secenekASonucu: {fileID: 0}
-  secenekASonucMetni: "I\u015F\u0131\u011Fa yakla\u015F\u0131rken havai fi\u015Fekler
-    patlamaya ba\u015Flar ve onlara kitlenirsin ancak o s\u0131ra yol \xFCzerinden
-    ge\xE7en bir araba sana \xE7arpar ve \xF6l\xFCrs\xFCn."
+  secenekASonucu: {fileID: 11400000, guid: 47f616f49e71f2046b6469c57baad66c, type: 2}
+  secenekASonucMetni: '
+
+'
   secenekAResmi: {fileID: -1035415673213467966, guid: 495e59af5f8f48943b8c6d6caeac7e7b, type: 3}
   secenekA_CanEtkisi: 0
   secenekA_AcclikEtkisi: 0
   secenekBMetni: "I\u015F\u0131\u011Fa do\u011Fru git"
-  secenekBSonucu: {fileID: 11400000, guid: 47f616f49e71f2046b6469c57baad66c, type: 2}
-  secenekBSonucMetni: 
+  secenekBSonucu: {fileID: 0}
+  secenekBSonucMetni: "Yakla\u015F\u0131rken havai fi\u015Fekler patlad\u0131 ve
+    onlara kitlendin ve o s\u0131ra yol \xFCzerinden ge\xE7en bir araba sana \xE7arpt\u0131,
+    \xF6ld\xFCn."
   secenekBResmi: {fileID: -1688431707379574793, guid: b36f58fcc3bf6cd4cb00a4e36207fbdb, type: 3}
   secenekB_CanEtkisi: 0
   secenekB_AcclikEtkisi: 0

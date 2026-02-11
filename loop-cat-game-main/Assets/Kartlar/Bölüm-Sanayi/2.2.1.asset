@@ -18,7 +18,7 @@ MonoBehaviour:
   secenekASonucMetni: "Yemek buldun karn\u0131n\u0131 doyurdun"
   secenekAResmi: {fileID: 8331247514130816974, guid: bf0e774d7608af3449144627d4eaeadc, type: 3}
   secenekA_CanEtkisi: 0
-  secenekA_AcclikEtkisi: 0
+  secenekA_AcclikEtkisi: 1
   secenekBMetni: "Yol \xFCzerinde denk geldi\u011Fin restar\u0131n\u0131n \xF6n\xFCnde
     yemeka ra"
   secenekBSonucu: {fileID: 0}
