@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: 3.2.5.1
   m_EditorClassIdentifier: 
   soruMetni: "I\u015F\u0131\u011F\u0131n evin oldu\u011Funu fark edersin"
-  secenekAMetni: "Evine girmek i\xE7in \xF6n kap\u0131dan gir"
+  secenekAMetni: "\xD6n kap\u0131dan girmeye \xE7al\u0131\u015F"
   secenekASonucu: {fileID: 0}
   secenekASonucMetni: "Eve var\u0131nca miyavlars\u0131n ve b\xFCt\xFCn ailen gelir
     ve sana sar\u0131l\u0131rlar(mutlu son)"
   secenekAResmi: {fileID: -3254956263046928870, guid: af6c69a55c5cf0247b445eed51816d72, type: 3}
   secenekA_CanEtkisi: 0
   secenekA_AcclikEtkisi: 0
-  secenekBMetni: "Eve girmek i\xE7in kedi kap\u0131s\u0131ndan girmeye \xE7al\u0131\u015F"
+  secenekBMetni: "Kedi kap\u0131s\u0131ndan girmeye \xE7al\u0131\u015F"
   secenekBSonucu: {fileID: 0}
   secenekBSonucMetni: "Kedi kap\u0131s\u0131ndan girerken tellere tak\u0131lr\u0131s\u0131n
-    ve kanamaya ba\u015Flars\u0131n. Evin \xF6n\xFCne geldi\u011Finde ailenden gelir
-    ancak her \u015Fey i\xE7in \xE7ok ge\xE7tir."
+    ve kanamaya ba\u015Flars\u0131n. Evin \xF6n\xFCne geldi\u011Finde ailenden gelir,
+    yere y\u0131\u011F\u0131l\u0131p orada \xF6l\xFCrs\xFCn."
   secenekBResmi: {fileID: -1688431707379574793, guid: b36f58fcc3bf6cd4cb00a4e36207fbdb, type: 3}
   secenekB_CanEtkisi: 0
   secenekB_AcclikEtkisi: 0

@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: 2.1.3
   m_EditorClassIdentifier: 
   soruMetni: "Kedinin kul\xFCbesinde yavru kediler fark ettin. Bir anne kedi katilisin"
-  secenekAMetni: "Y\xFCksek bir yerden atla"
+  secenekAMetni: "Y\xFCksek bir yerden atla ve \xF6lmeye \xE7al\u0131\u015F"
   secenekASonucu: {fileID: 0}
-  secenekASonucMetni: "\xD6ld\xFCn"
+  secenekASonucMetni: "Bir kedi i\xE7in mant\u0131ks\u0131z bir giri\u015Fimdi neyse
+    ki atlad\u0131\u011F\u0131n noktada ay\u0131 kapan\u0131 varm\u0131\u015F \xF6ld\xFCn. "
   secenekAResmi: {fileID: 3703562686956834513, guid: 042695ef8ef0ac94c981f2899ed6f04e, type: 3}
   secenekA_CanEtkisi: 0
   secenekA_AcclikEtkisi: 0

@@ -22,7 +22,7 @@ MonoBehaviour:
   secenekA_CanEtkisi: 0
   secenekA_AcclikEtkisi: 0
   secenekBMetni: "\u0130leride bir \u0131\u015F\u0131k dikkatini \xE7ektin"
-  secenekBSonucu: {fileID: 0}
+  secenekBSonucu: {fileID: 11400000, guid: 4bd79798113c5a1418d1808114e969fd, type: 2}
   secenekBSonucMetni: 
   secenekBResmi: {fileID: -1688431707379574793, guid: b36f58fcc3bf6cd4cb00a4e36207fbdb, type: 3}
   secenekB_CanEtkisi: 0

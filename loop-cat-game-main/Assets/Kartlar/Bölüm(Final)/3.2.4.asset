@@ -21,7 +21,7 @@ MonoBehaviour:
   secenekA_CanEtkisi: 0
   secenekA_AcclikEtkisi: 0
   secenekBMetni: "Kediyi bo\u015F ver devam et"
-  secenekBSonucu: {fileID: 0}
+  secenekBSonucu: {fileID: 11400000, guid: 5e67105dd24abdd47ab7a32c06e2cfe2, type: 2}
   secenekBSonucMetni: 
   secenekBResmi: {fileID: 4613640584336049277, guid: 9ac87ac20e0b93f4db0eeaac3eac93d7, type: 3}
   secenekB_CanEtkisi: 0
